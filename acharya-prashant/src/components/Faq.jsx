@@ -36,7 +36,7 @@ useEffect(() => {
             <h2>FAQs</h2>
             <p>Can’t find the answer you’re looking for? Reach out to our <span className='text-orange-400'>support</span> team</p>
         </div>
-        <div className='w-[70%] mr-8'>
+        <div className='w-[70%] p-2'>
       {faq.map((item, index) => (
         <div key={index} className="border-t border-gray-300 py-2">
           <button
