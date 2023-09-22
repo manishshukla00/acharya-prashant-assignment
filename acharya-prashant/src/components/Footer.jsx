@@ -15,7 +15,7 @@ const Footer = () => {
             <span>Bhagvad Gita</span>
             <span>Sant Sarita</span>
             <span>Ashtavakra Samhita</span>
-            <span>Bodh Pra`tyusha</span>
+            <span>Bodh Pratyusha</span>
           </div>
           <div className="text-white flex flex-col gap-2">
             <h1 className="font-bold">WISDOM CONTENT</h1>
