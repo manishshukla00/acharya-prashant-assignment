@@ -53,7 +53,9 @@ useEffect(() => {
               activeIndex === index ? 'max-h-40' : 'max-h-0 overflow-hidden'
             } transition-all duration-300 ease-in-out`}
           >
+             <div className='h-[80px]  overflow-y-scroll md:overflow-hidden'>
             <p className="mt-2 mx-2">{item.answer}</p>
+            </div>
           </div>
         </div>
       ))}
