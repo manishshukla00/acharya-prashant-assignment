@@ -64,7 +64,7 @@ const Footer = () => {
             <button className="w-[50%] md:w-full border border-white rounded-lg py-1">Fill Form to Connect</button>
           </div>
         </div>
-        <div className="w-[650px] h-auto flex flex-col md:flex-row md:items-center md:justify-center text-sm text-white m-auto mt-8 md:p-8 p-4 border-t border-slate-200 gap-8">
+        <div className="flex flex-col md:flex-row md:items-center md:justify-center md:text-xs text-sm text-white m-auto md:p-8 p-4 gap-4">
           <p>Copyright © 2022 PrashantAdvait Foundation</p>
           <p>Terms & Conditions | Privacy Policy</p>
         </div>
